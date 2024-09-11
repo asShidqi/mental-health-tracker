@@ -121,6 +121,6 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1", "muhammad-fayyed-mentalhealthtracker.pbp.cs.ui.ac.id"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "muhammad-fayyed-mentalhealthtracker1.pbp.cs.ui.ac.id"]
 
-CSRF_TRUSTED_ORIGINS = ["http://localhost","http://127.0.0.1","http://muhammad-fayyed-mentalhealthtracker.pbp.cs.ui.ac.id/", "https://muhammad-fayyed-mentalhealthtracker.pbp.cs.ui.ac.id/"]
+CSRF_TRUSTED_ORIGINS = ["http://localhost","http://127.0.0.1","http://muhammad-fayyed-mentalhealthtracker1.pbp.cs.ui.ac.id/", "https://muhammad-fayyed-mentalhealthtracker1.pbp.cs.ui.ac.id/"]
